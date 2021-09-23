@@ -3,4 +3,4 @@ Metropolis: A Three.js replica of metropolis
 
 - Please move the bloomStrength parameter on the top-right dashboard after you enter the website
 
-- View the demo: 
+- View the demo: https://davinj-0316.github.io/Metropolis/
